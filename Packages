@@ -1,0 +1,7 @@
+-- Hãy copy chữ bên trong mục Control của file Deb Tweak.
+-- Hãy thêm 3 dòng sau khi Copy:
+Filename: ./debs/tên_file.deb
+Size: kích cỡ theo byte
+MD5sum: mã hash md5 của file
+
+-- Sau khi thêm, hãy nhấn Enter để xuống dòng (bắt buộc) rồi mới lưu lại.
