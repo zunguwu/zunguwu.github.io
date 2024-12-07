@@ -1,7 +1,16 @@
--- Hãy copy chữ bên trong mục Control của file Deb Tweak.
--- Hãy thêm 3 dòng sau khi Copy:
-Filename: ./debs/tên_file.deb
-Size: kích cỡ theo byte
-MD5sum: mã hash md5 của file
-
--- Sau khi thêm, hãy nhấn Enter để xuống dòng (bắt buộc) rồi mới lưu lại.
+Package: com.zunguwu.2nd
+Architecture: iphoneos-arm
+Version: 2.0-1+debug
+Section: Tweaks
+Maintainer: zunguwu
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zunguwu.2nd_2.0-1+debug_iphoneos-arm.deb
+Size: 31430
+MD5sum: 5eba33ae1ed901e443df2dae690d20d8
+SHA1: 418864717801d750c642f36fcb9b0133812b7bc4
+SHA256: 665fd59a34453118e691902f940c36d6aba9efcc50cb232c26ee6ee3f648ea93
+SHA512: 1b0c30ac0c99733ea5c4004e5c8858d8bc1917df6b21ac3135872f91d7c59874f247de7ef4d3bd8c45ef6693b6df54ca23df7d90675a0581264fb6f034687103
+Description: Add second line to your time on statusbar
+Name: 2nd
+Author: zunguwu
