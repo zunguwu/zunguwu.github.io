@@ -13,4 +13,20 @@ SHA256: 665fd59a34453118e691902f940c36d6aba9efcc50cb232c26ee6ee3f648ea93
 SHA512: 1b0c30ac0c99733ea5c4004e5c8858d8bc1917df6b21ac3135872f91d7c59874f247de7ef4d3bd8c45ef6693b6df54ca23df7d90675a0581264fb6f034687103
 Description: Add second line to your time on statusbar
 Name: 2nd
+Author: zunguwu 
+
+Package:com.zunguwu.vcam
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: zunguwu
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename:./debs/com.zunguwu.vcam_v1.0.0-108+debug_iphoneos-arm64.deb
+Size: 68170
+MD5sum: f122bf6021aeb0b4242de4db3295165c
+SHA1: 17bcd28ae1bb7896be3154c442895b71ecd2aa2d
+SHA256: f56c9ae1d29286584ef56a331d8230012909e39d1a9fa9d7b27fb4dfd07c3079
+Section: System
+Description: ấn tăng và giảm âm để bật vcam
+Name: Vcam rootless
 Author: zunguwu
