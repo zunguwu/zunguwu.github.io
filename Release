@@ -1,8 +1,9 @@
-Origin: zunguwu repo
-Label: 582007
+Origin: zunguwu's Repo
+Label: zunguwu's Repo
 Suite: stable
 Version: 1.1
-Codename: ios
+Codename: zunguwu
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A zunguwu repo to use
+Icon: file://CydiaIcon.png
