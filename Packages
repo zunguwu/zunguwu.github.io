@@ -79,3 +79,20 @@ SHA512: 96da64d1687a416102d10adb9a64e6855f11f5cb9f5d554fe46ea75ec2df4d8f6b775094
 Description: 1 youtube app without ads
 Name: youtube vanced
 Author: zunguwu
+
+Package: com.zunguwu.carbridgelegacy
+Architecture: iphoneos-arm
+Version: 1.0.9.5
+Section: Tweaks
+Maintainer: zunguwu
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zunguwu.carbridgelegacy_1.0.9.5_iphoneos-arm.deb
+Size: 3315952
+MD5sum: 9ce04993352ed3df46a0cb72813e9f9e
+SHA1: 6a609e357ba6e8a6281a324ec8208a290fd3e286
+SHA256: 05bc95122a0cb7bfbb275e8226537cc9bcf602f19ec55c5cca3cad42cdb24241
+SHA512: 38ed9e073e50eed3921b92af82ca4d5a4b292c8cdc8fd1f5e7475ad303e1316529a2fc295f82acc9b632da27b5a4dca5bbb7b2d5625aba145e94a570823760bc
+Description: Them bat ki app nao len carplay
+Name: Carbridge Legacy Old
+Author: zunguwu
