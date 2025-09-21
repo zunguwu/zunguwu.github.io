@@ -96,3 +96,37 @@ SHA512: 38ed9e073e50eed3921b92af82ca4d5a4b292c8cdc8fd1f5e7475ad303e1316529a2fc29
 Description: Them bat ki app nao len carplay
 Name: Carbridge Legacy Old
 Author: zunguwu
+
+Package: com.zunguwu.preferenceloader
+Architecture: iphoneos-arm
+Version: 2.2.6
+Section: Tweaks
+Maintainer: zunguwu
+Installed-Size: 355
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zunguwu.preferenceloader_2.2.6.deb
+Size: 36414
+MD5sum: 551c39b9d6d58be5ad82e81a59a1715f
+SHA1: c1d547036234756c5e75a633393d4ffa791b1126
+SHA256: 335fff25ff13021889ba856ce84fbc23ba25569f1c6cc65a3e113b433b1ed60f
+SHA512: 8b1010e1bc02c722edf248cb4ad74ed03990334f290686450eff2d2354603bc6148298c478e98cf270ae875a2f2119598e3ba4cdfd0e0b1c6c298596ac8d7be3
+Description: tweak
+Name: PreferenceLoader
+Author: zunguwu
+
+Package: com.zunguwu.cepheitweaksupport
+Architecture: iphoneos-arm
+Version: 1.17.1
+Section: Tweaks
+Maintainer: zunguwu
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zunguwu.cepheitweaksupport.1.17.1_iphoneos-arm.deb
+Size: 208096
+MD5sum: a1a27d51f93da4262059fe937e025f35
+SHA1: d546e6520c107d8fa6e748c97244dcdbf38603ad
+SHA256: dca96478c832a552b35e77afa7b4950c66a00a06e0e467006b543adcaa2e92d0
+SHA512: 86295a36f82bcc52fd77cc13859aa638f2ab5e4df285f687a788e930b69ba2d01b12521acc4a90032c98810889a0f4a4e19dbe37eb21dc133c79a0c18ae35d4a
+Description: tweak
+Name: Cephei Tweak Support
+Author: zunguwu
