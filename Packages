@@ -71,11 +71,11 @@ Maintainer: zunguwu
 Installed-Size: 312
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zunguwu.youtube_1.0_iphoneos-arm.deb
-Size: 4978
-MD5sum: 59160ed0985e9a654c428d310bfb0020
-SHA1: 28b7e81a110361f7781de7848aa963b2df531a53
-SHA256: 6b3b0f9770274690dbf976c20f82592bf152148af0366c7fcc8ae663ca3b46646
-SHA512: 96da64d1687a416102d10adb9a64e6855f11f5cb9f5d554fe46ea75ec2df4d8f6b775094e39e0c77f3dd0298ddd4e2eb77a36bcc3cd1c3fb74cbf5857305c697
+Size: 5156
+MD5sum: 307189fac8a481f24675124f1c32cf62
+SHA1: b3414aafaff860e720f97496a44b020cea11db19
+SHA256: c782e54dd9fac3d2dd5b135e41b631add233389971a313a34a858ec32b39f2bd
+SHA512: b22eaf70ffcc10dc73e21aa495c4cfb8dfc922a7058cd6c17bac37402e752c43e775d210431b1f2be690e225e536fe48c8db6c5e5cef2630ab1f1b99bf42308e
 Description: 1 youtube app without ads
 Name: youtube vanced
 Author: zunguwu
